@@ -226,7 +226,7 @@ const Works = props => {
       tech: "woocommerce sql",
       repo: "https://www.linkedin.com/company/lideradigitalperu/",}, /*#__PURE__*/
 
-    React.createElement("small", null, "Desarrollé con la herramienta de wordpress y bases de datos con sql"), /*#__PURE__*/
+    React.createElement("small", null, "Trabajé con el cargo de fullstack"), /*#__PURE__*/
 
 
     React.createElement("p", null, "Fui participe de proyectos de Lidera Digital en el área de backend y frontend.")), /*#__PURE__*/
