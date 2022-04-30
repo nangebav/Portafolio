@@ -136,7 +136,7 @@ const About = props => {
 
 
     React.createElement("div", { className: "desc" }, /*#__PURE__*/
-    React.createElement("h4", { className: "subtitle" }, "Diseñadora gráfica"), /*#__PURE__*/
+    React.createElement("h4", { className: "subtitle" }, "Diseño gráfico"), /*#__PURE__*/
     React.createElement("p", null, "Me especializo en la creación de diseños visuales potentes utilizando ilustraciones digitales, imágenes y tipografía."), /*#__PURE__*/
 
 )))));
